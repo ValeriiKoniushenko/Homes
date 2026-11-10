@@ -4,7 +4,7 @@ Search: https://qasa.com/se/en/find-home?searchAreas=Stockholm_County~~se&minRoo
 
 Criteria: rent ≤13k all-in (ideal 11–12k), ≥3 rooms (bedroom + living + small office, extra room = bonus), ≤~70 min to Årstaängsvägen 21B.
 
-**Coverage caveat:** the page reports 289 homes but only the first ~34 were readable (infinite scroll / rate limiting). Re-run later to cover the rest. Commute times are estimates (not verified with a route planner).
+**Coverage caveat:** the page reports 289 homes but only the first ~59 are in the server-rendered HTML (rest is infinite scroll; direct scripted requests get HTTP 429, so I did not work around it). Re-run later to cover the rest. Commute times are estimates (not verified with a route planner).
 
 ## Top picks (opened in detail)
 | Rank | Address | Rent | Rooms / m² | Included | Not included | Available | Est. all-in | Link |
@@ -47,3 +47,23 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+## Added in 2026-11-10 run (newly seen, not opened)
+| Address | Area | Rent | Rooms | m² | Link |
+|---|---|---|---|---|---|
+| Vardövägen 53 | Stockholm | 12514 | 2 | 58 | https://qasa.com/se/en/home/1504268 |
+| Veddestabron 5B | Järfälla | 12530 | 2 | 49 | https://qasa.com/se/en/home/1504246 |
+| Almbygatan 8 | Spånga | 11376 | 2 | 55 | https://qasa.com/se/en/home/1504087 |
+| Segersällsvägen 45 (x6 more) | Järfälla | 10206-10664 | 2 | 49-53 | ids 1504034, 1504021, 1504008, 1503994, 1503976, 1503969, 1503959 |
+| Klövjestigen 10 | Skogås | 9800 | 2 | 44 | https://qasa.com/se/en/home/1501856 |
+| Thorsten Levenstams väg 4C | Sköndal | 10008 | 2 | 42 | https://qasa.com/se/en/home/1501776 |
+| Husarvägen 36 | Stockholm | 11430 | 2 | 55 | https://qasa.com/se/en/home/1501769 |
+| Axgränd 1 | Stockholm | 12201 | 2 | 45 | https://qasa.com/se/en/home/1501763 |
+| Askersundsgatan 12 | Bandhagen | 9349 | 2 | 60 | https://qasa.com/se/en/home/1501743 |
+| Blå gatan 2 | Stockholm | 10716 | 2 | 49 | https://qasa.com/se/en/home/1501053 |
+| Segersällsvägen 45 | Järfälla | 10309 / 10206 | 2 | 50 / 49 | 1500976, 1500872 |
+| Vardövägen 49 | Stockholm | 12640 | 2 | 45 | https://qasa.com/se/en/home/1500975 |
+| Höskullegränd 2/4, Visthusgränd 4, Ljungbergs gata 46 | Sigtuna | 9732-10140 | 2 | 46-47 | 1500925, 1500922, 1500916, 1500910, 1500893, 1500861 |
+| Sparres väg 23 / 21 | Upplands-Bro | 7207 (2 rooms, 40 m²) | 2 | 40 | 1500862, 1500854 |
+
+New 3-room candidates seen: Vallagränd 13 Haninge (9,689, 3 rooms but 50 m², commute uncertain), Sparres väg 23 Upplands-Bro (9,370, 3 / 61 m², likely >70 min). Neither beats Vintrosagatan 12 on commute confidence; ranking unchanged.
