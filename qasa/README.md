@@ -14,6 +14,14 @@ Criteria: rent ≤13k all-in (ideal 11–12k), ≥3 rooms (bedroom + living + sm
 | 3 | Hagsätra Torg 44 | 11,817 | 3 / 78 | water, heating, cable TV | electricity, internet | 2027-02-01 | ~12.7k | https://qasa.com/se/en/home/1503174 |
 | 4 | Forvägen 15, Fittja | 12,001 | 3 / 86 | water, heating | electricity, internet, TV | 2027-03-01 | ~12.9k | https://qasa.com/se/en/home/1500995 (being renovated) |
 
+### Added 2026-11-11 run (opened in detail)
+| Address | Rent | Rooms / m² | Included | Notes | Available | Link |
+|---|---|---|---|---|---|---|
+| Krikongränd 5, Hässelby Strand | 12,126 | 3 / 75 | water, heating | 5th floor + lift, balcony, **dishwasher**, 340 m to metro (green line), renovated 2015/kitchen 2022; est. commute ~60-65 min | 2027-02-01 | https://qasa.com/se/en/home/1504342 |
+| Bäverbäcksgränd 161, Bandhagen | 12,095 | 3 / 81 | water, heating, cable TV | 2 floors, balcony, only prepared for dishwasher, kitchen/bath to be renovated; Rågsved metro 685 m, short commute (~35 min est.) | 2027-02-01 | https://qasa.com/se/en/home/1505007 |
+
+Krikongränd 5 is the only opened listing so far with both balcony and confirmed dishwasher (+~700 SEK vs Vintrosagatan). Bäverbäcksgränd 161 is the biggest 3-room and has a short commute.
+
 Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmarsplan, then short hop to Årsta), cheapest of the 3-room options, balcony, storage room. Harpsundsvägen 12 is the best if you want a real guest room and can stretch to ~13k.
 
 ## Other homes seen in list (not opened; mostly 2 rooms = no office)
@@ -47,3 +55,8 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+## More seen in list on 2026-11-11 (not opened)
+3+ rooms: Tegelängsvägen 18B Botkyrka 12,160 3/65 https://qasa.com/se/en/home/1505275 ; Sjöfrökens väg 13A Botkyrka 12,829 3/71 https://qasa.com/se/en/home/1505218 ; Sjöfrökens väg 13A 12,718 3/70 https://qasa.com/se/en/home/1505214 ; Sjöfrökens väg 4 11,715 3/61 https://qasa.com/se/en/home/1505186 ; Steninge Slottsväg 149 A Sigtuna 10,659 3/69 https://qasa.com/se/en/home/1504819 (too far) ; Segersällsvägen 31 Järfälla 10,710 3/49 https://qasa.com/se/en/home/1504534 ; Segersällsvägen 31 10,733 3/49 https://qasa.com/se/en/home/1504533 ; Storvretsvägen 107 Skogås 12,833 3/66 https://qasa.com/se/en/home/1504477 .
+2 rooms (no office): Sjöfrökens väg 1/7/13B/15/18, Tegelängsvägen 10, Veddestabron 4B/5B, Hasselnötstorget 8, Aprikosgatan 22 (8,268, 2/60, Stockholm) https://qasa.com/se/en/home/1504330, Norströms väg 5 Trångsund 10,163 2/64 https://qasa.com/se/en/home/1504407, Almbygatan 8 Spånga, Vardövägen 49/53, Segersällsvägen 19/39/41/45, Klövjestigen 8/10, Storvretsvägen 105/107.
+Whole result list (300 homes, sorted by newest) was read to the end this run.
