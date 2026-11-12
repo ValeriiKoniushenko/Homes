@@ -47,3 +47,15 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+## Update 2026-11-12 (second run; page now shows 298 homes, ~60 readable via WebFetch)
+New opened candidates:
+| Address | Rent | Rooms / m² | Dishwasher | Balcony | Included | Available | Link |
+|---|---|---|---|---|---|---|---|
+| **Ekvägen 22, Tumba** (NEW BEST) | 11,625 | 3 / 64 | yes | yes | heating, TV (water NOT incl.) | 2027-03-02, until further notice | https://qasa.com/se/en/home/1506003 |
+| Bäverbäcksgränd 161, Bandhagen | 12,095 | 3 / 81 (spans 2 floors) | prepared only | yes | water, heating, TV | 2027-02-01, until further notice | https://qasa.com/se/en/home/1505007 |
+
+Revised pick: **Ekvägen 22, Tumba** – only opened home with both dishwasher and balcony, ~11.6k (+electricity/internet/water ≈ 12.5k). Tumba commuter train → Stockholm C → Årsta, est. ~55 min (not verified). Runner-up: Bäverbäcksgränd 161 (largest, 81 m², good for office + guest room).
+
+Seen in list, not opened (2 rooms unless noted): Landåstråket 3 Järfälla 12124 (1506106); Harpsundsvägen 50 Bandhagen 8675/57m² (1506028); Banmästargatan 7 12295 (1506021); Kistaängsgatan 15 Kista 11932 (1506020); Askersundsgatan 12 Bandhagen 9364/60m² (1506018); Tant Gröns Väg 6 Uttran 10177 (1506000); Barrtorpsvägen 2 Södertälje 8233/68m² (1505772); Skogängsvägen 9B 10726 (1505701); Skogängsvägen 7A 12153 (1505412); Gerda Bergstrands väg 1 12312 (1505383); Rustningsgränd 6 11491 (1505339); Sjöfrökens väg 13A 3r 12829 (1505218), 12718 (1505214); Steninge Slottsväg 149A Sigtuna 3r 10659 (1504819, far); Segersällsvägen 31 Järfälla 3r/49m² 10710 (1504534), 10733 (1504533); Norströms väg 5 Trångsund 10163/64m² (1504407); Aprikosgatan 22 8268/60m² (1504330); Almbygatan 8 Spånga 11376 (1504087); plus more Botkyrka/Järfälla/Skogås 2-room units. All prefix https://qasa.com/se/en/home/<id>.
+Still unseen: ~230 homes (page is truncated for scraping; Qasa blocks direct curl/browser with a Vercel checkpoint).
