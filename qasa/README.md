@@ -6,6 +6,31 @@ Criteria: rent ≤13k all-in (ideal 11–12k), ≥3 rooms (bedroom + living + sm
 
 **Coverage caveat:** the page reports 289 homes but only the first ~34 were readable (infinite scroll / rate limiting). Re-run later to cover the rest. Commute times are estimates (not verified with a route planner).
 
+## Run 2026-11-13 update (new listings, IDs 15065xx–15069xx)
+Page now reports 288 homes; ~half of the page text was readable. New best pick:
+
+| Address | Rent | Rooms / m² | Notes | Link |
+|---|---|---|---|---|
+| **Pålsbodagränd 11, Bandhagen** (NEW #1) | 10,929 | 3 / 76 | 3rd floor, balcony, elevator, 217 m to Hagsätra metro; water, heating, cable TV incl.; from 2027-01-16; until further notice; pets OK; dishwasher not mentioned | https://qasa.com/se/en/home/1506761 |
+
+Other new 3+ room homes (not opened):
+| Address | Area | Rent | Rooms | m² | Link |
+|---|---|---|---|---|---|
+| Sjöfrökens väg 13A | Botkyrka | 12829 | 3 | 71 | https://qasa.com/se/en/home/1506772 |
+| Sjöfrökens väg 13A | Botkyrka | 12718 | 3 | 70 | https://qasa.com/se/en/home/1506768 |
+| Segersällsvägen 31 | Järfälla | 10710 | 3 | 49 | https://qasa.com/se/en/home/1506771 |
+| Segersällsvägen 31 | Järfälla | 10733 | 3 | 49 | https://qasa.com/se/en/home/1506765 |
+| Sjöfrökens väg 4 | Botkyrka | 11715 | 3 | 61 | https://qasa.com/se/en/home/1506748 |
+| Vårholmsbackarna 110 | Stockholm | 11963 | 3 | 55 | https://qasa.com/se/en/home/1506575 |
+| Storvretsvägen 107 | Skogås | 12833 | 3 | 66 | https://qasa.com/se/en/home/1506845 |
+| Tegelängsvägen 18B | Botkyrka | 12160 | 3 | 65 | https://qasa.com/se/en/home/1506789 |
+| Ekvägen 22 | Tumba | 11625 | 3 | 64 | https://qasa.com/se/en/home/1506003 |
+| Hamnvägen 1 | Norrtälje | 12557 | 3 | 69 | https://qasa.com/se/en/home/1506518 (likely too far) |
+| Ekebyholmshöjden 13C | Rimbo | 10338 | 3 | 71 | https://qasa.com/se/en/home/1506497 (likely too far) |
+| Björntorp 16C | Rimbo | 11447 | 3 | 74 | https://qasa.com/se/en/home/1506494 (likely too far) |
+
+New 2-room listings seen (no office room): Askersundsgatan 6 Bandhagen 9309/60m² https://qasa.com/se/en/home/1506899; plus Tumba, Skogås, Järfälla, Botkyrka 2-roomers (IDs 1506785–1506886).
+
 ## Top picks (opened in detail)
 | Rank | Address | Rent | Rooms / m² | Included | Not included | Available | Est. all-in | Link |
 |---|---|---|---|---|---|---|---|---|
