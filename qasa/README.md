@@ -47,3 +47,22 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+## Update 2026-11-14 (re-run; listing IDs have changed, 284 homes reported, ~half the page readable)
+New 3-room finds (opened = details checked):
+| Address | Area | Rent | Rooms / m² | Notes | Link |
+|---|---|---|---|---|---|
+| **Pålsbodagränd 11** (opened) | Bandhagen | 10,929 | 3 / 76 | balcony, elevator, water+heating+TV incl., no dishwasher listed, from 2027-01-16, until further notice | https://qasa.com/se/en/home/1506761 |
+| Vårholmsbackarna 110 (opened) | Vårberg | 11,963 (+499 mandatory broadband/TV = ~12.5k, + electricity) | 3 / 55 | dishwasher + balcony, renovated, from 2026-12-01, until further notice | https://qasa.com/se/en/home/1506575 |
+| Segersällsvägen 31 | Järfälla | 10,710 / 10,733 | 3 / 49 | far from work | https://qasa.com/se/en/home/1506771 , https://qasa.com/se/en/home/1506765 |
+| Sjöfrökens väg 13A | Botkyrka | 12,829 / 12,718 | 3 / 70-71 | | https://qasa.com/se/en/home/1506772 , https://qasa.com/se/en/home/1506768 |
+| Sjöfrökens väg 4 | Botkyrka | 11,715 | 3 / 61 | | https://qasa.com/se/en/home/1506748 |
+| Tegelängsvägen 18B | Botkyrka | 12,160 | 3 / 65 | | https://qasa.com/se/en/home/1506789 |
+| Storvretsvägen 107 | Skogås | 12,833 | 3 / 66 | | https://qasa.com/se/en/home/1506845 |
+| Ekvägen 22 | Tumba | 11,625 | 3 / 64 | | https://qasa.com/se/en/home/1506003 |
+| Hamnvägen 1 | Norrtälje | 12,557 | 3 / 69 | too far | https://qasa.com/se/en/home/1506518 |
+| Ekebyholmshöjden 13C / Björntorp 16C | Rimbo | 10,338 / 11,447 | 3 / 71-74 | too far | https://qasa.com/se/en/home/1506497 , https://qasa.com/se/en/home/1506494 |
+
+Other 2-room listings seen (no office room, skipped): Björnövägen 2 Södertälje 8,950; Askersundsgatan 6 Bandhagen 9,309 (60 m², https://qasa.com/se/en/home/1506899); Skäcklingevägen 20 Tumba; Trollsländevägen 8 Tumba; Forskningsringen 94 Stockholm 12,384; Storvretsvägen 105/107, Klövjestigen 8/10 Skogås; Segersällsvägen 45 Järfälla; Sjöfrökens väg 1/7 and Tegelängsvägen 10 Botkyrka (all /se/en/home/15067xx-15068xx).
+
+**New pick: Pålsbodagränd 11, Bandhagen** – cheaper (10.9k) and larger (76 m²) than the previous #1, balcony, same area/commute as Vintrosagatan (Bandhagen, green line). Dishwasher unconfirmed. Previous #1 Vintrosagatan 12 may now be relisted under a new ID. Runner-up if dishwasher matters: Vårholmsbackarna 110 (~12.5k incl. mandatory broadband/TV).
