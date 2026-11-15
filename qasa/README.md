@@ -6,6 +6,19 @@ Criteria: rent ≤13k all-in (ideal 11–12k), ≥3 rooms (bedroom + living + sm
 
 **Coverage caveat:** the page reports 289 homes but only the first ~34 were readable (infinite scroll / rate limiting). Re-run later to cover the rest. Commute times are estimates (not verified with a route planner).
 
+## Update 2026-11-15 (re-run; listing IDs were re-issued, now 15xxxxx; page reports 284 homes, ~33 readable)
+New opened-in-detail homes (all: pets OK, until further notice):
+| Address | Rent | Rooms / m² | Dishwasher | Balcony | Included | Available | Link |
+|---|---|---|---|---|---|---|---|
+| **Pålsbodagränd 11, Hagsätra** | 10,929 | 3 / 76 | not mentioned | yes | water, heating, cable TV | 2027-01-16 | https://qasa.com/se/en/home/1506761 |
+| Ekvägen 22, Tumba | 11,625 | 3 / 64 | yes | yes | heating, basic TV | 2027-03-02 | https://qasa.com/se/en/home/1506003 |
+| Vårholmsbackarna 110, Vårberg | 11,963 (+499 mandatory broadband/TV) | 3 / 55 | yes | yes | water, heating | 2026-12-01 | https://qasa.com/se/en/home/1506575 |
+
+**New overall pick: Pålsbodagränd 11** – cheaper than the previous #1 (Vintrosagatan 12), bigger (76 m²), balcony, 217 m to Hagsätra metro (green line). Runner-up if dishwasher matters: Ekvägen 22 (Tumba commuter train towards Årstaberg should be short; commute is an estimate, unverified). Previous top picks above remain valid but their old links may be expired/re-issued.
+
+Other 3+ room homes seen in list, not opened (new IDs): Segersällsvägen 31 Järfälla 10,710/49 m² https://qasa.com/se/en/home/1506771 and 10,733 .../1506765; Sjöfrökens väg 13A Botkyrka 12,829/71 .../1506772 and 12,718/70 .../1506768; Sjöfrökens väg 4 Botkyrka 11,715/61 .../1506748; Tegelängsvägen 18B Botkyrka 12,160/65 .../1506789; Storvretsvägen 107 Skogås 12,833/66 .../1506845; Hamnvägen 1 Norrtälje 12,557/69 .../1506518 (too far); Ekebyholmshöjden 13C Rimbo 10,338/71 .../1506497 (too far); Björntorp 16C Rimbo 11,447/74 .../1506494 (too far).
+2-room homes seen (skipped, no office room): Björnövägen 2 Södertälje .../1506933, Askersundsgatan 6 Bandhagen .../1506899, Skäcklingevägen 20 Tumba .../1506886, .../1506883, Trollsländevägen 8 Tumba .../1506879, Forskningsringen 94 .../1506856, Klövjestigen 8/10 Skogås .../1506850, .../1506844, Storvretsvägen 105/107 Skogås .../1506852, .../1506849, .../1506846, Segersällsvägen 45 Järfälla .../1506825, .../1506821, .../1506820, .../1506819, .../1506809, Sjöfrökens väg 1/7 Botkyrka .../1506788, .../1506787, .../1506786, Tegelängsvägen 10 Botkyrka .../1506785.
+
 ## Top picks (opened in detail)
 | Rank | Address | Rent | Rooms / m² | Included | Not included | Available | Est. all-in | Link |
 |---|---|---|---|---|---|---|---|---|
