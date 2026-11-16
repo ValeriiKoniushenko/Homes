@@ -47,3 +47,34 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+---
+
+# Run 2026-11-16 (new listing IDs; ~130 of 286 homes readable)
+
+**New best pick: Telivägen 13, Nynäshamn** – https://qasa.com/se/en/home/1508361
+3 rooms / 70 m², 3rd floor, **balcony + dishwasher**, rent 11,609 (heating incl.; electricity, internet, hot water, TV 265 extra), pets welcome, **until further notice**, available 2027-02-01. Waterfront building. Commute: pendeltåg Nynäshamn → Årstaberg is the same line as the work address (Årstaängsvägen is by Årstaberg), est. ~45–60 min door to door (not verified). Not an "arabic district". Listing doesn't state bedroom count (3 rooms = likely bedroom + living + small room; verify floor plan).
+
+**Runner-up (cheaper, bigger): Backluravägen 29B, Nynäshamn** – https://qasa.com/se/en/home/1508198
+3 rooms / 80 m², 4th floor, balcony, no dishwasher listed, rent 10,761 (nothing included, so ~12k all-in), until further notice, available 2027-01-01.
+
+**Cheaper but weaker fit:** Pålsbodagränd 11, Bandhagen (Hagsätra) – https://qasa.com/se/en/home/1506761 – 3 rooms / 76 m², 10,929 incl. water+heat+TV, balcony, from 2027-01-16. Area likely falls under "avoid" preference; no dishwasher listed.
+
+## Newly checked (list view only, not opened)
+| Address | Area | Rooms | m² | Rent | Link |
+|---|---|---|---|---|---|
+| Vårholmsbackarna 110 | Stockholm (Vårberg) | 3 | 55 | 11,963 | https://qasa.com/se/en/home/1506575 |
+| Segersällsvägen 31 | Järfälla | 3 | 49 | 10,710 | https://qasa.com/se/en/home/1506771 |
+| Segersällsvägen 31 | Järfälla | 3 | 49 | 10,733 | https://qasa.com/se/en/home/1506765 |
+| Ekebyholmshöjden 13C | Rimbo | 3 | 71 | 10,338 | https://qasa.com/se/en/home/1506497 (too far) |
+| Hamnvägen 1 | Norrtälje | 3 | 69 | 12,557 | https://qasa.com/se/en/home/1506518 (too far) |
+| Planetvägen 66C | Norrtälje | 3 | 53 | 12,423 | https://qasa.com/se/en/home/1508151 (too far) |
+| Sjöfrökens väg 13A | Botkyrka | 3 | 71 | 12,829 | https://qasa.com/se/en/home/1506772 |
+| Sjöfrökens väg 13A | Botkyrka | 3 | 70 | 12,718 | https://qasa.com/se/en/home/1506768 |
+| Sjöfrökens väg 4 | Botkyrka | 3 | 61 | 11,715 | https://qasa.com/se/en/home/1506748 |
+| Tegelängsvägen 18B | Botkyrka | 3 | 65 | 12,160 | https://qasa.com/se/en/home/1506789 |
+| Storvretsvägen 107 | Skogås | 3 | 66 | 12,833 | https://qasa.com/se/en/home/1506845 |
+
+2-room homes seen (no office room, skipped): Jaktfalksgatan 2 (1508442, 8,723), Björnövägen 2 Södertälje (1508330 / 1506933), Sätraängsvägen 6 Danderyd (1508206, 10,890, 62 m²), Askersundsgatan 6 Bandhagen (1506899, 9,309, 60 m²), Hasselgatan 24 Upplands Väsby (1506559, 9,154, 63 m²), Perstorpsvägen 197 Farsta (1508372), Industrivägen 6F Nynäshamn (1508154), plus many Botkyrka/Järfälla/Tumba/Skogås/Spånga/Handen units (IDs 15067xx–15068xx).
+
+Note: rows 200000+ chars of the page were read; earlier-run entries (IDs 1500xxx–1503xxx) may have been rented since.
