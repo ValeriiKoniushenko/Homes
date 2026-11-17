@@ -6,6 +6,15 @@ Criteria: rent ≤13k all-in (ideal 11–12k), ≥3 rooms (bedroom + living + sm
 
 **Coverage caveat:** the page reports 289 homes but only the first ~34 were readable (infinite scroll / rate limiting). Re-run later to cover the rest. Commute times are estimates (not verified with a route planner).
 
+## Update 2026-11-17 (re-run; page now reports 284 homes, ~57 of them readable)
+New best pick: **Pålsbodagränd 11, Bandhagen** – 10,929 SEK, 3 rooms, 76 m², 3rd floor with elevator, balcony, pets welcome, until further notice, start 2027-01-16. Includes water, heating, cable TV (not electricity/internet; est. all-in ~11.7k). Dishwasher not mentioned. Bandhagen is close to Årsta (est. well under 70 min). https://qasa.com/se/en/home/1506761
+Runner-up: Täppgatan 12 A, Södertälje – 10,850, 3 rooms, 72 m², balcony, until further notice, start 2027-01-01; only heating included, and Södertälje is likely ~60-70 min away. https://qasa.com/se/en/home/1508506
+Vintrosagatan 12 (previous #1) still listed and open, 11,369, https://qasa.com/se/en/home/1503167
+
+Other new 3-room homes seen (not opened): Telivägen 13 Nynäshamn 11,609/70 m² (1508361); Backluravägen 29B Nynäshamn 10,761/80 m² (1508198); Telivägen 7 Nynäshamn 12,932/80 m² (1508995); Segersällsvägen 31 Järfälla 10,710/49 m² (1506771, 1506765); Sjöfrökens väg 13A Botkyrka 12,829/71 m² (1506772) and 12,718/70 m² (1506768). Nynäshamn is far; Järfälla's 3-rooms are tiny.
+New 2-room homes (no office; not opened): Askersundsgatan 6 Bandhagen 9,309/60 m² (1506899); Perstorpsvägen 197 Farsta 11,985/41 (1508372); Köpmangatan 3 Södertälje 9,860/63 (1509019); Sätraängsvägen 6 Danderyd 10,890/62 (1508206); plus many Järfälla/Botkyrka/Handen/Skogås/Tumba units (IDs 1506750-1509128).
+Still uncovered: ~225 homes beyond the readable portion.
+
 ## Top picks (opened in detail)
 | Rank | Address | Rent | Rooms / m² | Included | Not included | Available | Est. all-in | Link |
 |---|---|---|---|---|---|---|---|---|
