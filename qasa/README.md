@@ -6,6 +6,26 @@ Criteria: rent ≤13k all-in (ideal 11–12k), ≥3 rooms (bedroom + living + sm
 
 **Coverage caveat:** the page reports 289 homes but only the first ~34 were readable (infinite scroll / rate limiting). Re-run later to cover the rest. Commute times are estimates (not verified with a route planner).
 
+## Run 2026-11-18 (latest)
+Page now reports 283 homes; only first ~40 + one later slice readable (rate limited). New opened homes:
+
+| Rank | Address | Rent | Rooms / m² | Floor | Balcony | Dishwasher | Included | Available | Link |
+|---|---|---|---|---|---|---|---|---|---|
+| **1 (new best)** | Pålsbodagränd 11, Bandhagen | 10,929 | 3 / 76 | 3 | yes | no info | water, heating, cable TV | 2027-01-16 | https://qasa.com/se/en/home/1506761 |
+| 2 | Täppgatan 12 A, Södertälje | 10,850 | 3 / 72 | 3 | yes | no info | heating | 2027-01-01 | https://qasa.com/se/en/home/1508506 |
+| 3 | Askersundsgatan 6, Bandhagen | 11,893 | 3 / 78 | 5 | yes (enclosed) | prepared, not installed | water, heating, TV | 2027-02-01 | https://qasa.com/se/en/home/1509803 |
+| 4 | Mejeriets väg 34A, Märsta | 11,467 | 3 / 76 | 1 | yes | yes | heating | 2027-03-01 | https://qasa.com/se/en/home/1509883 (commute likely ~70+ min) |
+| - | Segersällsvägen 31, Järfälla | 10,710 (20% intro discount to May 2027) | 3 / 49 | 5 | yes | yes | heating | now | https://qasa.com/se/en/home/1506771 (small, 49 m²; commute long) |
+
+Recommendation: **Pålsbodagränd 11** (cheapest well-sized 3-room in a short-commute area, balcony, utilities mostly included). Dishwasher unconfirmed.
+
+Seen, not opened (3+ rooms): Tegelängsvägen 18B 12,160 https://qasa.com/se/en/home/1506789; Sjöfrökens väg 13A 12,829/12,718 https://qasa.com/se/en/home/1506772 , https://qasa.com/se/en/home/1506768; Segersällsvägen 31 10,733 https://qasa.com/se/en/home/1506765; Telivägen 7 Nynäshamn 12,932 https://qasa.com/se/en/home/1508995; Telivägen 13 Nynäshamn 11,609 https://qasa.com/se/en/home/1508361; Backluravägen 29B Nynäshamn 10,761 https://qasa.com/se/en/home/1508198 (Nynäshamn too far); Planetvägen 66C Norrtälje 12,423 https://qasa.com/se/en/home/1508151 (too far); Storvretsvägen 107 Skogås 12,833 https://qasa.com/se/en/home/1509432.
+
+Seen 2-room (no office), cheap: Harpsundsvägen 66 Bandhagen 8,854/58 m² https://qasa.com/se/en/home/1509317; Askersundsgatan 6 9,309/60 m² https://qasa.com/se/en/home/1506899; Vårholmsbackarna 110 Stockholm 9,912/42 https://qasa.com/se/en/home/1509913; Orrestaslingan 25 12,198/42 https://qasa.com/se/en/home/1509998; Perstorpsvägen 197 Farsta 11,985/41 https://qasa.com/se/en/home/1508372; other 2-rooms in Järfälla, Botkyrka, Skogås, Handen, Tumba, Södertälje, Uttran, Kungsängen (IDs 1506757-1509857 range, see search).
+
+---
+
+## Earlier run
 ## Top picks (opened in detail)
 | Rank | Address | Rent | Rooms / m² | Included | Not included | Available | Est. all-in | Link |
 |---|---|---|---|---|---|---|---|---|
