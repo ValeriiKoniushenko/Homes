@@ -6,6 +6,27 @@ Criteria: rent ≤13k all-in (ideal 11–12k), ≥3 rooms (bedroom + living + sm
 
 **Coverage caveat:** the page reports 289 homes but only the first ~34 were readable (infinite scroll / rate limiting). Re-run later to cover the rest. Commute times are estimates (not verified with a route planner).
 
+## Run 2026-11-19 (page now reports 275 homes; ~58 cards readable via page text, IDs 1508493–1510770)
+New 3+ room finds, opened in detail. Commute = estimate, not verified with a route planner.
+
+| Rank | Address | Rent | Rooms / m² | Dishwasher | Balcony | Included | Available | Est. commute | Link |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Fornhöjdsvägen 80, Södertälje | 10,842 | 4 / 101 | not mentioned | glazed | water, heating, cable TV | now | ~65-75 min (bus to Östertälje, commuter train to Årstaberg, short walk) – borderline | https://qasa.com/se/en/home/1510107 |
+| 2 | Askersundsgatan 6, Bandhagen | 11,893 | 3 / 78 | prepared, not installed | glazed | water, heating, cable TV | 2027-02-01 | ~35-45 min (green line) | https://qasa.com/se/en/home/1509803 |
+| 3 | Aprikosgatan 32, Stockholm | 10,804 | 3 / 74 | yes | yes | hot water, heating | 2027-03-01 | unknown (bus-only area, bus 908/119/198; likely >70) | https://qasa.com/se/en/home/1510766 |
+
+Pick: **Fornhöjdsvägen 80** – 4 rooms/101 m² for under 11k gives bedroom + living + office + guest room; the risk is commute (~70 min) and the area. If commute matters more, take **Askersundsgatan 6** (~12k, much closer). All "until further notice", pets welcome.
+
+Other 3+ room cards seen, not opened: Täppgatan 12 A Södertälje 10,850 / 3 / 72 https://qasa.com/se/en/home/1508506 · Mejeriets väg 34A Märsta 11,467 / 3 / 76 (too far) https://qasa.com/se/en/home/1509883 · Segersällsvägen 31 Järfälla 10,710 / 3 / 49 (small) https://qasa.com/se/en/home/1510152 · Sjöfrökens väg 13A Botkyrka 12,718 / 3 / 70 https://qasa.com/se/en/home/1510157 · Telivägen 7 Nynäshamn 12,932 / 3 / 80 (far) https://qasa.com/se/en/home/1508995 · Tegelängsvägen 18B Botkyrka 12,160 / 3 / 65 https://qasa.com/se/en/home/1510171
+
+2-room cards seen this run are skipped (no room for an office) except bargains worth a look: Sibeliusgången 20B Stockholm 8,643 / 51 m² https://qasa.com/se/en/home/1510608 · Harpsundsvägen 66 Bandhagen 8,854 / 58 m² https://qasa.com/se/en/home/1509317 · Tummelisas Gata 6 Annedal 12,842 / 65 m² https://qasa.com/se/en/home/1510770
+
+Note: api.qasa.com GraphQL only returned 9 unrelated listings, so it is not usable for coverage.
+
+---
+
+# Earlier run
+
 ## Top picks (opened in detail)
 | Rank | Address | Rent | Rooms / m² | Included | Not included | Available | Est. all-in | Link |
 |---|---|---|---|---|---|---|---|---|
