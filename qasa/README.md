@@ -47,3 +47,27 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+---
+## Run 2026-11-20 (full list read, ~95 cards; new top picks opened in detail)
+Links: https://qasa.com + path. Rent figures are what Qasa shows; commute times are my estimates (not route-planner verified).
+
+### Best homes (3 rooms = bedroom + living + small office)
+| Rank | Home | Rent | Rooms / m² | Dishwasher | Balcony | Move-in | Notes | Link |
+|---|---|---|---|---|---|---|---|---|
+| 1 | **Aprikosgatan 32, Stockholm** | 10,804 | 3 / 74 | yes | yes | 2027-03-01 | Best value; heating + hot water incl.; bus 908 nearby. District not named on page (south-west Stockholm, likely Hägersten/Fruängen area) – commute est. 30-45 min, verify | https://qasa.com/se/en/home/1510766 |
+| 2 | Täppgatan 12A, Södertälje | 10,850 | 3 / 72 | no/unknown | yes | 2027-01-01 | Central Södertälje, commuter train to Årstaberg ~25 min (est. total ~45-55 min) | https://qasa.com/se/en/home/1508506 |
+| 3 | Mejeriets väg 34A, Märsta | 11,467 | 3 / 76 | yes | yes | 2027-03-01 | Largest; commuter train 21 min to Stockholm C, total ~65-75 min (borderline) | https://qasa.com/se/en/home/1509883 |
+| 4 | Storvretsvägen 107, Skogås | 12,833* | 3 / 66 | yes | yes | now | *20% discount only first 4 months, then higher (base rent not shown) | https://qasa.com/se/en/home/1511493 |
+| 5 | Askersundsgatan 6, Bandhagen | 11,893 | 3 / 78 | no (prepared) | enclosed | 2027-02-01 | Area may not suit "avoid arabic districts"; Rågsved bus/metro | https://qasa.com/se/en/home/1509803 |
+| 6 | Sjöfrökens väg 13A, Slagsta, Botkyrka | 12,718* | 3 / 70 | yes | yes | now | *discounted through 2026-12-31, then SEK 3,000 discount in 2027; Botkyrka = likely area to avoid | https://qasa.com/se/en/home/1510157 |
+
+**Recommendation: Aprikosgatan 32** (lowest rent of the 3-room options, dishwasher + balcony, 74 m², open-ended lease). Backup: Täppgatan 12A.
+
+### Checked in detail, rejected
+- Tummelisas Gata 6, Annedal – 2 rooms, 12,842 – https://qasa.com/se/en/home/1510770
+
+### Seen in list, not opened (mostly 2 rooms = no office room)
+3-room: Tegelängsvägen 18B Botkyrka 12,160/65 (/home/1510171), Telivägen 7 Nynäshamn 12,932/80 (/home/1508995, far), Segersällsvägen 31 Järfälla 10,710/49 and 10,733/49 (/home/1511523, /home/1511521; 3 rooms but only 49 m²).
+2-room (cheap): Segersällsvägen 31/39/41/45 Järfälla (1511517, 1511513, 1511512, 1511510, 1511507, 1511505, 1511504, 1508634), Klövjestigen 8/10 Skogås (1511501, 1511491), Storvretsvägen 105/107 Skogås (1511497, 1511496, 1511494), Steninge slottsväg 145A Sigtuna (1511088, 1511087), Tummelisas/Aprikos see above, Sibeliusgången 20B Stockholm 8,643/51 (1510608), Vårholmsbackarna 110 Stockholm 9,912/42 (1509913), Orrestaslingan 25 Stockholm 12,198/42 (1509998), Skäcklingevägen 20 Tumba (1510624, 1510202), Trollsländevägen 5B/8 Tumba (1510620, 1510200), Sjöfrökens väg 1/4/7/13B/15/18 and Tegelängsvägen 10 Botkyrka (1510178, 1510169, 1510168, 1510167, 1510166, 1510153, 1510145, 1510144, 1510140, 1510137, 1510133, 1510131), Skogängsvägen 7A Spånga (1510105), Landåstråket 3 Järfälla (1510046), Enbärsvägen 9/11 Kungsängen (1509853, 1509857), Tant Gröns Väg 6 + Sandstuguvägen 12B Uttran (1509795, 1509794), Harpsundsvägen 66 Bandhagen 8,854/58 (1509317), Industrivägen 6D Nynäshamn (1509128), Enköpingsvägen 23C + Malstensgränd 1 Järfälla (1509040, 1508987), Köpmangatan 3 Södertälje 9,860/63 (1509019), Venngarn 302D Sigtuna (1508964), Arkens väg 15/28 Handen (1508493, 1508498). All "Until further notice".
+Path prefix for the above: https://qasa.com/se/en/home/<id>
