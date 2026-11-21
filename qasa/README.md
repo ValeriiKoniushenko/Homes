@@ -47,3 +47,33 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+---
+
+# Run 2026-11-21 (new listing IDs 15105xx–15116xx; search now reports 277 homes, ~49 readable)
+
+Note: earlier links (1503xxx/1501xxx) may be stale; listings were re-issued. Commute times are estimates, not verified.
+
+## Opened in detail
+| Address | Rent | Rooms / m² | Dishwasher | Balcony | Available | Included | Link |
+|---|---|---|---|---|---|---|---|
+| **Aprikosgatan 32, Hässelby (Stockholm)** | 10,804 | 3 / 74 | yes | yes | 2027-03-01 | water, heating | https://qasa.com/se/en/home/1510766 |
+| Askersundsgatan 6, Bandhagen | 11,468 | 3 / 78 (2 bedrooms) | no (prepared) | yes | 2027-01-15 | water, heating, TV | https://qasa.com/se/en/home/1511581 |
+| Segersällsvägen 31, Järfälla | 10,710 (20% discount until 2027-05, then rises) | 3 / 49 (small) | yes | yes | now | heating | https://qasa.com/se/en/home/1511523 |
+
+**New pick: Aprikosgatan 32** – cheapest 3-room, 74 m², dishwasher + balcony, lift, open-ended lease, pets OK. Commute (metro Hässelby → city → Årsta) est. ~60 min – verify. Available only from March 2027. Runner-up: Askersundsgatan 6 (Bandhagen, shorter commute, two bedrooms, no dishwasher, sooner).
+
+## Seen in list, not opened (3+ rooms)
+| Address | Area | Rent | Rooms | m² | Link |
+|---|---|---|---|---|---|
+| Tegelängsvägen 18B | Botkyrka | 12,160 | 3 | 65 | https://qasa.com/se/en/home/1511636 |
+| Sjöfrökens väg 13A | Botkyrka | 12,718 | 3 | 70 | https://qasa.com/se/en/home/1511625 |
+| Segersällsvägen 31 | Järfälla | 10,733 | 3 | 49 | https://qasa.com/se/en/home/1511521 |
+| Storvretsvägen 107 | Skogås | 12,833 | 3 | 66 | https://qasa.com/se/en/home/1511493 |
+| Mejeriets väg 34A | Märsta | 11,467 | 3 | 76 | https://qasa.com/se/en/home/1509883 |
+
+## Seen in list, 2 rooms (no office; not opened)
+Tumba: 1511677, 1511676, 1511675, 1511673 · Botkyrka: 1511635, 1511634, 1511633, 1511631, 1511624, 1511620, 1511617, 1511615, 1511614, 1511613, 1511608, 1511607 · Uttran: 1511591, 1511590, 1511588, 1511585 · Järfälla: 1511517, 1511513, 1511512, 1511510, 1511507, 1511505, 1511504, 1510046 · Skogås: 1511501, 1511497, 1511496, 1511494, 1511491 · Sigtuna: 1511088, 1511087 · Stockholm: Tummelisas Gata 6 (1510770), Sibeliusgången 20B (1510608), Orrestaslingan 25 (1509998), Vårholmsbackarna 110 (1509913) · Kungsängen: 1509857, 1509853
+(all at https://qasa.com/se/en/home/<id>)
+
+Not covered: ~228 homes beyond the first ~49 (page truncation). An attempt to query Qasa's GraphQL API directly was blocked by the permission classifier, so I did not pursue it.
