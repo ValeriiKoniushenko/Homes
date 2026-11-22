@@ -47,3 +47,22 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+---
+## Re-run 2026-11-22 (listings now ~271; ids 15xxxxx–1511xxx, previous ones may be gone)
+Read nearly the whole result page (all 3+ room homes and all 2-room homes under 10k found). Opened in detail:
+
+| Rank | Address | Rent | Rooms / m² | Dishwasher | Balcony | Included | Available | Link |
+|---|---|---|---|---|---|---|---|---|
+| 1 (NEW best) | Aprikosgatan 32, Hässelby (Stockholm) | 10,804 | 3 / 74 | yes | yes | water, heating | 2027-03-01 | https://qasa.com/se/en/home/1510766 |
+| 2 | Askersundsgatan 6, Bandhagen | 11,468 (2026 level) | 3 / 78, two bedrooms | prepared only | yes | water, heating, cable TV | 2027-01-15 | https://qasa.com/se/en/home/1511581 |
+| 3 | Mejeriets väg 34A, Märsta | 11,467 | 3 / 76 | yes | yes | heating only (water/electricity by usage) | 2027-03-01 | https://qasa.com/se/en/home/1509883 |
+| 4 | Sjöfrökens väg 13A, Botkyrka | 12,718 (discounted until 2026-12-31; from 2027 less 3,000 discount) | 3 / 70 | yes | yes | heating | now | https://qasa.com/se/en/home/1511625 |
+
+All: pets allowed, until further notice. Askersundsgatan 6 also appeared as https://qasa.com/se/en/home/1509803 (11,893).
+Pick: **Aprikosgatan 32** – cheapest 3-room, dishwasher + balcony, but commute (green line from Hässelby, est. ~55–70 min) is unverified and it is near the 70-min limit. Safer commute: **Askersundsgatan 6** (Bandhagen, 2 bedrooms, metro nearby).
+
+### Not opened (listed only)
+3 rooms: Segersällsvägen 31 Järfälla 10,710 / 49 m² https://qasa.com/se/en/home/1511523 ; 10,733 https://qasa.com/se/en/home/1511521 ; Storvretsvägen 107 Skogås 12,833 / 66 m² https://qasa.com/se/en/home/1511493 ; Tegelängsvägen 18B Botkyrka 12,160 / 65 m² https://qasa.com/se/en/home/1511636
+2 rooms (no office, new): Skäcklingevägen 20 Tumba https://qasa.com/se/en/home/1511677 , /1511675 ; Trollsländevägen 8 /1511676 ; 5B /1511673 ; Sjöfrökens väg 1 /1511635 , /1511634 ; 7 /1511633 ; 13B /1511624 , /1511620 ; 15 /1511617 ; 18 /1511615 ; 4 /1511614 , /1511613 , /1511608 , /1511607 ; Tegelängsvägen 10 /1511631 ; Tant Gröns Väg 8 /1511591 , 1 /1511590 ; Sandstuguvägen 14 /1511588 , 18 /1511585 ; Segersällsvägen 31 /1511517 ; 41 /1511510 ; Storvretsvägen 105 /1511497 ; 107 /1511494 ; Klövjestigen 10 /1511491 ; Steninge slottsväg 145A /1511088 , /1511087 ; Sibeliusgången 20B Stockholm 8,643 /1510608 ; Vårholmsbackarna 110 /1509913 ; Enbärsvägen 11 /1509857 , 9 /1509853 (all under /se/en/home/).
+Note: the repo scope here only allowed the Homes repository, so "qasa" is a folder inside it.
