@@ -1,5 +1,28 @@
 # Qasa search – Stockholm (checked homes)
 
+## Run 2026-11-23 (266 homes in search; whole page read, 3+ room ones opened)
+
+**Best pick: Aprikosgatan 32, Hässelby – 10,804/mo, 3 rooms, 74 m², dishwasher + balcony, until further notice, pets welcome, from 2027-03-01.** https://qasa.com/se/en/home/1510766
+Caveat: Hässelby is far north-west; estimated commute to Årstaängsvägen 21B is ~65–75 min (not verified with a route planner). If that's too long, take the Bandhagen/Hagsätra ones (~40–50 min, but Bandhagen area may fall under your "avoid" preference).
+
+| Rank | Address | Rent | Rooms / m² | Dishwasher | Balcony | Available | Link |
+|---|---|---|---|---|---|---|---|
+| 1 | Aprikosgatan 32, Hässelby | 10,804 | 3 / 74 | yes | yes | 2027-03-01 | https://qasa.com/se/en/home/1510766 |
+| 2 | Askersundsgatan 6, Bandhagen | 11,468 | 3 / 78 | prepared | yes | 2027-01-15 | https://qasa.com/se/en/home/1511581 |
+| 3 | Olshammarsgatan 25, Bandhagen | 11,404 | 3 / 71 | no info | yes | 2027-02-01 | https://qasa.com/se/en/home/1513259 |
+| 4 | Åmmebergsgatan 4, Bandhagen | 11,479 | 3 / 77 | no info | yes | 2027-02-01 | https://qasa.com/se/en/home/1512863 |
+| 5 | Askersundsgatan 6, Bandhagen (2nd unit) | 11,893 | 3 / 78 | prepared | yes | n/a | https://qasa.com/se/en/home/1509803 |
+
+All opened: warm water + heating included, electricity/internet extra (~+900), end date until further notice, pets welcome.
+
+Other 3-room homes seen, not opened: Mejeriets väg 34A Märsta 11,467 (76 m²) https://qasa.com/se/en/home/1509883 (far north, likely >70 min); Segersällsvägen 31 Järfälla 10,710 / 10,733 (49 m², small) https://qasa.com/se/en/home/1511523 , https://qasa.com/se/en/home/1511521 ; Tegelängsvägen 18B Botkyrka 12,160 (65 m²) https://qasa.com/se/en/home/1511636 ; Sjöfrökens väg 13A Botkyrka 12,718 (70 m²) https://qasa.com/se/en/home/1511625 ; Storvretsvägen 107 Skogås 12,833 (66 m²) https://qasa.com/se/en/home/1511493.
+
+2-room homes (no office room; cheapest seen ~8.6–10k) seen this run, not opened — e.g. Sibeliusgången 20B Stockholm 8,643 (51 m²) https://qasa.com/se/en/home/1510608 , Vårholmsbackarna 110 Stockholm 9,912 (42 m²) https://qasa.com/se/en/home/1509913 , Orrestaslingan 25 12,198, Tummelisas Gata 6 12,842, Perstorpsvägen 199 Farsta 11,663 (41 m²) https://qasa.com/se/en/home/1513012 , plus many in Botkyrka, Tumba, Uttran, Skogås, Järfälla, Norrtälje, Kungsängen, Sigtuna (links /se/en/home/1511607–1511677, 1511494–1511591, 1511504–1511523, 1509853–1509857, 1513144, 1513257, 1511087–1511088).
+
+---
+
+## Earlier run
+
 Search: https://qasa.com/se/en/find-home?searchAreas=Stockholm_County~~se&minRoomCount=2&minSquareMeters=40&maxSquareMeters=110&maxRoomCount=5&minMonthlyCost=5000&maxMonthlyCost=13000&sharedHome=privateHome&contractTypes=firstHand&rules=pets
 
 Criteria: rent ≤13k all-in (ideal 11–12k), ≥3 rooms (bedroom + living + small office, extra room = bonus), ≤~70 min to Årstaängsvägen 21B.
