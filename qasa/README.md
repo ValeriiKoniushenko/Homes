@@ -47,3 +47,17 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+## Update 2026-11-25 (re-run; newer listings, page now shows 274 homes; first ~200k chars of page read)
+New 3-room candidates opened in detail (all: pets welcome, until further notice, balcony, no dishwasher mentioned):
+| Address | Rent | Rooms / m² | Floor | Included | Available | Link |
+|---|---|---|---|---|---|---|
+| Åmmebergsgatan 4, Bandhagen | 11,479 | 3 / 77 | 2 (no lift, storage) | water, heating, TV | 2027-02-01 | https://qasa.com/se/en/home/1512863 |
+| Askersundsgatan 6, Bandhagen | 11,468 | 3 / 78 | 2 | water, heating, TV (kitchen prepared for dishwasher) | 2027-01-15 | https://qasa.com/se/en/home/1511581 |
+| Olshammarsgatan 25, Bandhagen | 11,404 | 3 / 71 | 3 | water, heating, TV | 2027-02-01 | https://qasa.com/se/en/home/1513259 |
+| Agrarvägen 2A, Stockholm | 12,512 | 3 / 65 | 3 (lift) | heating, cold water only; electricity + hot water extra | 2027-02-01 | https://qasa.com/se/en/home/1514723 |
+| Hjulstavägen 98, Spånga | 12,174 | 3 / 59 | 2 | nothing (heat/hot water billed extra) | 2027-01-01 | https://qasa.com/se/en/home/1513930 |
+
+Not opened: Sjöfrökens väg 13A Botkyrka (12,718, 3/70) https://qasa.com/se/en/home/1511625 ; Segersällsvägen 31 Järfälla (10,710 / 10,733, 3/49) https://qasa.com/se/en/home/1511523 , https://qasa.com/se/en/home/1511521 . Many 2-room listings seen (e.g. Rustningsgränd 2 1514732, Boulevarden 22 1514731, Turfgatan 6 1514730) – no office room, skipped.
+
+**Current pick: Vintrosagatan 12 (11,369, 3/78, balcony) remains cheapest large option; Åmmebergsgatan 4 / Askersundsgatan 6 (both ~11.5k, 77-78 m², Bandhagen) are equivalent alternatives.** Commutes still estimated, not verified.
