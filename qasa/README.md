@@ -47,3 +47,15 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+## Update 2026-11-27 (run 2, page now reports 260 homes; ~half readable)
+New 3-room finds, opened in detail (all: pets welcome, until further notice, move-in 2027-02-01, water+heating+cable TV included, balcony, dishwasher not mentioned):
+| Address | Rent | Rooms / m² | Floor | Est. all-in | Link |
+|---|---|---|---|---|---|
+| **Åmmebergsgatan 4, Bandhagen** | 11,479 | 3 / 77 | 2 | ~12.3k | https://qasa.com/se/en/home/1512863 |
+| Olshammarsgatan 25, Bandhagen | 11,404 | 3 / 71 | 3 | ~12.2k | https://qasa.com/se/en/home/1513259 |
+| Agrarvägen 2A, Stockholm | 12,512 | 3 / 65 | 3 | ~13k+ (warm water extra) | https://qasa.com/se/en/home/1514723 |
+
+New pick ties with Vintrosagatan 12 (same area, same rent range): **Åmmebergsgatan 4** (77 m², ~same price). Listing text gives no room layout; check floor-plan PDF for a real third small room.
+
+Seen in list, not opened: Sjöfrökens väg 13A Botkyrka 12,718 3r/70 (1514927); Hjulstavägen 98 Spånga 12,174 3r/59 (1513930); Vallagränd 13 Haninge 9,689 3r/50 (1514176); plus ~23 two-room homes (Järfälla, Upplands Väsby, Kungsängen, Tullinge, Skogås, Spånga, Botkyrka; IDs 1514936-1516288), e.g. Örnäsvägen 6 Kungsängen 10,500 2r/76 (1515467). Last ~1k chars of page unread.
