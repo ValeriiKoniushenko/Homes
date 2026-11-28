@@ -47,3 +47,18 @@ Pick: **Vintrosagatan 12** – 2 min to metro (Hagsätra, green line to Gullmars
 | Harald Linds Väg 32 | Ljusterö | 12577 | 3 | 84 | https://qasa.com/se/en/home/1501808 |
 | Vallagränd 13 | Haninge | 9689 | 3 | 50 | https://qasa.com/se/en/home/1501766 |
 | Sparres väg 23 | Upplands-Bro | 9370 | 3 | 61 | https://qasa.com/se/en/home/1500871 |
+
+## Update 2026-11-28 (new run; listings now 252, IDs 15xxxxx)
+Only first ~54 listings readable via fetch (site blocks direct requests). Newly opened 3-room homes:
+
+| Rank | Address | Rent | Rooms / m² | Dishwasher | Balcony | Notes | Link |
+|---|---|---|---|---|---|---|---|
+| 1 | Segersällsvägen 31, Järfälla | 10,733 | 3 / 49 | yes | yes | Newly built, heating incl., until further notice, available now. Rent has 20% discount until 31 May 2027, 10% until end 2027, full rent from 2028 (~13.4k). Commuter train ~20 min to T-Centralen; est. ~60-70 min to Årsta. | https://qasa.com/se/en/home/1516302 |
+| 2 | Tegelängsvägen 18B, Botkyrka (Slagsta Strand) | 12,700 | 3 / 65 | yes | yes | Rent discounted by 2,500 only during 2027 (full ~15.2k after). Heating incl. Available now. | https://qasa.com/se/en/home/1516515 |
+| 3 | Agrarvägen 2A, Stockholm | 12,512 | 3 / 65 | not listed | yes | Heating+cold water incl., available 2027-02-01, until further notice. | https://qasa.com/se/en/home/1514723 |
+
+Also seen, 3 rooms, not opened: Hjulstavägen 98 Spånga 12,174 (3/59) https://qasa.com/se/en/home/1513930 (area likely undesirable); Vallagränd 13 Haninge 9,689 (3/50) https://qasa.com/se/en/home/1514176; Storvretsvägen 107 Skogås 12,833 (3/66) https://qasa.com/se/en/home/1516353.
+
+2-room homes seen (no office): Sjöfrökens väg 4 (1516493, 1516491, 1516490, 1516487, 1516484), Ellen Rydéns Väg 1 (1516467), Skogängsvägen 15A (1516455), Skäcklingevägen 20 (1516417), Trollsländevägen 12/5B (1516415, 1516410), Bäverbäcksvägen 34 (1516413), Storvretsvägen 105/107 (1516347, 1516349, 1516344), Klövjestigen 8/10 (1516345, 1516346), Segersällsvägen 39/41/45 (1516294, 1516292, 1516291, 1516290, 1516288, 1516284), Vattenpussgränd 1/3, Malstensgränd 3, Örnäsvägen 6, Skogängsvägen 48A, Tullinge Skrinnarstigen 2A/2B, Hanvedens allé 27 (IDs 1515626-1513338). Prefix: https://qasa.com/se/en/home/
+
+**Current best pick: Segersällsvägen 31 (1516302)** - cheapest, dishwasher + balcony, but watch the rent step-up and small size (49 m²). Earlier pick Vintrosagatan 12 may still be listed; re-verify.
